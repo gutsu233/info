@@ -8,5 +8,7 @@
  DOMAIN-SUFFIX,ipv6-test.com
  DOMAIN-SUFFIX,emby.vip
  DOMAIN-SUFFIX,sfcat.link
+ DOMAIN,mygcdn2.mobaiemby.site
+ DOMAIN,mygcns.mobaiemby.site
  IP-CIDR,89.58.0.0/16
   
