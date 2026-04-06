@@ -11,5 +11,7 @@ payload:
   - DOMAIN-SUFFIX,sfcat.link
   - DOMAIN-SUFFIX,ident.me
   - DOMAIN-SUFFIX,ipw.cn
+  - DOMAIN,mygcdn2.mobaiemby.site
+  - DOMAIN,mygcns.mobaiemby.site
   - PROCESS-NAME,ddns-go.exe
   
