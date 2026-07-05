@@ -13,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,ipw.cn
   - DOMAIN,mygcdn2.mobaiemby.site
   - DOMAIN,mygcdn2data.mobaiemby.site
+  - DOMAIN,mygcdn.mobaiemby.site
+  - DOMAIN,mygcdndata.mobaiemby.site  
   - DOMAIN,mygcns.mobaiemby.site
   - PROCESS-NAME,ddns-go.exe
   
