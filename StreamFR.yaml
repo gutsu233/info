@@ -2,7 +2,6 @@
 payload:
  - DOMAIN-SUFFIX,amazon.fr
  - DOMAIN-SUFFIX,ocs.fr
- - DOMAIN-SUFFIX,canalplus.com
  - DOMAIN-SUFFIX,canalplusgroup.com
  - DOMAIN-SUFFIX,lacinetek.com
  - DOMAIN-SUFFIX,on-tenk.com
@@ -17,4 +16,5 @@ payload:
  - DOMAIN-SUFFIX,premieremax.com
  - DOMAIN-KEYWORD,mathworks
  - DOMAIN-KEYWORD,canalplus
+ - DOMAIN-KEYWORD,canal-plus
  - DOMAIN-KEYWORD,.fr
