@@ -25,6 +25,7 @@ payload:
  - DOMAIN-SUFFIX,twitchcdn.net
  - DOMAIN-SUFFIX,nexusmods.com
  - DOMAIN-SUFFIX,cloudfront.net
+ - DOMAIN-SUFFIX,amd.com
  - DOMAIN,v.odysseyplus.site
  - DOMAIN,us.odysseyplus.site
  - DOMAIN,stream-us.odysseyplus.site
