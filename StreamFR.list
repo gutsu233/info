@@ -2,7 +2,6 @@
 
  DOMAIN-SUFFIX,amazon.fr
  DOMAIN-SUFFIX,ocs.fr
- DOMAIN-SUFFIX,canalplus.com
  DOMAIN-SUFFIX,canalplusgroup.com
  DOMAIN-SUFFIX,lacinetek.com
  DOMAIN-SUFFIX,on-tenk.com
@@ -16,5 +15,6 @@
  DOMAIN-SUFFIX,carlottafilms.com
  DOMAIN-SUFFIX,premieremax.com
  DOMAIN-KEYWORD,canalplus
+ DOMAIN-KEYWORD,canal-plus
  DOMAIN-KEYWORD,mathworks
  DOMAIN-KEYWORD,fr
