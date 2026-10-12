@@ -11,6 +11,9 @@ payload:
  - DOMAIN-SUFFIX,unext.jp
  - DOMAIN-SUFFIX,dmm.com
  - DOMAIN-SUFFIX,nintendo.com
+ - DOMAIN-SUFFIX,spotify.com
+ - DOMAIN-SUFFIX,spotifycdn.com
  - DOMAIN,jp.odysseyplus.site
+ - DOMAIN-KEYWORD,spotify
  - DOMAIN-KEYWORD,.jp
  
